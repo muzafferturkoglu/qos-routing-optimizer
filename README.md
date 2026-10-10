@@ -160,4 +160,3 @@ Final raporunda yer alan ekip:
 Bu depo [ekibin kaynak projesinden](https://github.com/turkermenes/Bilgisayar-Aglari-Grup12) fork edilmiştir. Proje açıklaması ve ekip listesi final raporuna, çalıştırma adımları ve başlangıç ayarları bu depodaki kaynak koduna dayanır.
 
 - [Masaüstü arayüzünü içeren final sürümü](https://github.com/turkermenes/Bilgisayar-Aglari-Grup12/tree/final)
-- [Raporda paylaşılan proje tanıtım videosu](https://youtu.be/ApOTCUxSGyA)
