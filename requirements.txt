@@ -1,0 +1,6 @@
+# Original dependency versions were not pinned in this branch.
+networkx
+numpy
+matplotlib
+pandas
+tqdm
